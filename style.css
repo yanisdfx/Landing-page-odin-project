@@ -5,10 +5,11 @@ body {
 
 a {
   text-decoration: none;
+  
   }
 
 a,
-.secondary text {
+.secondarytext {
     color: #E5E7EB;
     font-size: 18px;
 }
@@ -61,4 +62,16 @@ a,
     color: #1F2937;
     font-weight: 900;
     font-size: 24px; 
+}
+
+.rectangle-box {
+width: 400px;
+height: 350 px;
+display: flex;
+}
+
+.rectangle-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
