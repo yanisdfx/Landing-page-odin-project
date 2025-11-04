@@ -52,6 +52,8 @@ padding: 0 100px;
     display: flex;
     justify-content: center;
     gap: 24px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .content1 p {
@@ -80,7 +82,7 @@ padding: 0 100px;
 
 .rectangle-box {
 width: 400px;
-height: 350 px;
+height: 200 px;
 display: flex;
 }
 
