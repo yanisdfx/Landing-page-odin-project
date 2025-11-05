@@ -124,6 +124,7 @@ overflow: hidden;
 
 .container {
     display: flex;
+    gap: 50px;
 }
 
 .box1,
@@ -145,7 +146,7 @@ overflow: hidden;
 }
 
 .infotext {
-    font-size: 12px;
+    font-size: 10px;
     color:#1F2937;
 
 }
